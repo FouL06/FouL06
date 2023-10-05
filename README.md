@@ -1,16 +1,14 @@
 Hi 👋 My name is Ashton Foulger
 ===============================
 
-DevOps Engineer | Web-Developer
+DevOps Engineer | Fullstack-Developer
 -------------------------------
-
-I am currently a senior at The University of Utah, studying Computer Science. I currently work as a DevOps Engineer, doing Web-Development consulting on the side. I am interested in developing web-scalable apps, Kubernetes, and cloud computing.
 
 *   🌍  I'm based in Utah
 *   🖥️  See my portfolio at [Portfolio](http://foul06.github.io)
-*   🚀  I'm currently working on [Updated Portfolio Website](http://foul06.github.io)
-*   🧠  I'm learning Javascript, React JS, Kotlin, and Kubernetes
-*   🤝  I'm open to collaborating on Web-Development Projects, and cloud research.
+*   🚀  I'm currently working on [MyPetTag](http://mypettag.co)
+*   🧠  I'm learning React.js, Node.js, Helm, and Kubernetes
+*   🤝  I'm open to collaborating on Web-Development Projects, and DevOps Projects.
 
 ### Skills
 <p align="left">
