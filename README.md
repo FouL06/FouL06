@@ -6,7 +6,7 @@ DevOps Engineer | Fullstack-Developer
 
 *   🌍  I'm based in Utah
 *   🖥️  See my portfolio at [Portfolio](http://foul06.github.io)
-*   🚀  I'm currently working on [MyPetTag](http://mypettag.co)
+*   🚀  I'm currently working on [Jenkns Discord Bot](https://github.com/FouL06/Jenkins-Bot)
 *   🧠  I'm learning React.js, Node.js, Helm, and Kubernetes
 *   🤝  I'm open to collaborating on Web-Development Projects, and DevOps Projects.
 
