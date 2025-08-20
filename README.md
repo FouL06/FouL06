@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Infrastructure Engineer | Platform Engineer
 ------------------------------------
 
-I've been a DevOps engineer for 3 years now going on 4 my primary interests is scalable services using docker and Kubernetes. When I'm not coding I'm usually working on my home-lab or playing games.
-
-*   🌍  I'm based in Utah
+*   🌍  I'm based in the US
 *   🖥️  See my portfolio at [here](http://foul06.github.io)
-*   🚀  I'm currently working on []()
+*   🚀  I'm currently working on helping make school awesome at [SchoolAI](https://app.schoolai.com)
 
 ### Skills 
 <p align="left">
